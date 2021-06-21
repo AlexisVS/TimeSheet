@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Poppins-black';
-    src: url('../../public/fonts/Poppins-Black.woff2') format('woff2');
+    src: url('/fonts/Poppins-Black.woff2') format('woff2');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'Poppins-bold';
-    src: url('../../public/fonts/Poppins-Bold.woff2') format('woff2');
+    src: url('/fonts/Poppins-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
     font-family: 'Poppins-black-italic';
-    src: url('../../public/fonts/Poppins-BlackItalic.woff2') format('woff2');
+    src: url('/fonts/Poppins-BlackItalic.woff2') format('woff2');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -24,7 +24,7 @@
 
 @font-face {
     font-family: 'Poppins-bold-italic';
-    src: url('../../public/fonts/Poppins-BoldItalic.woff2') format('woff2');
+    src: url('/fonts/Poppins-BoldItalic.woff2') format('woff2');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -32,7 +32,7 @@
 
 @font-face {
     font-family: 'Poppins-extrabold';
-    src: url('../../public/fonts/Poppins-ExtraBold.woff2') format('woff2');
+    src: url('/fonts/Poppins-ExtraBold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -40,7 +40,7 @@
 
 @font-face {
     font-family: 'Poppins-extralight';
-    src: url('../../public/fonts/Poppins-ExtraLight.woff2') format('woff2');
+    src: url('/fonts/Poppins-ExtraLight.woff2') format('woff2');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -48,7 +48,7 @@
 
 @font-face {
     font-family: 'Poppins-extrabold-italic';
-    src: url('../../public/fonts/Poppins-ExtraBoldItalic.woff2') format('woff2');
+    src: url('/fonts/Poppins-ExtraBoldItalic.woff2') format('woff2');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -56,7 +56,7 @@
 
 @font-face {
     font-family: 'Poppins-extralight-italic';
-    src: url('../../public/fonts/Poppins-ExtraLightItalic.woff2') format('woff2');
+    src: url('/fonts/Poppins-ExtraLightItalic.woff2') format('woff2');
     font-weight: 200;
     font-style: italic;
     font-display: swap;
@@ -64,7 +64,7 @@
 
 @font-face {
     font-family: 'Poppins-italic';
-    src: url('../../public/fonts/Poppins-Italic.woff2') format('woff2');
+    src: url('/fonts/Poppins-Italic.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -72,7 +72,7 @@
 
 @font-face {
     font-family: 'Poppins-light';
-    src: url('../../public/fonts/Poppins-Light.woff2') format('woff2');
+    src: url('/fonts/Poppins-Light.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -80,7 +80,7 @@
 
 @font-face {
     font-family: 'Poppins-light-italic';
-    src: url('../../public/fonts/Poppins-LightItalic.woff2') format('woff2');
+    src: url('/fonts/Poppins-LightItalic.woff2') format('woff2');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
@@ -88,7 +88,7 @@
 
 @font-face {
     font-family: 'Poppins-medium';
-    src: url('../../public/fonts/Poppins-Medium.woff2') format('woff2');
+    src: url('/fonts/Poppins-Medium.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -96,7 +96,7 @@
 
 @font-face {
     font-family: 'Poppins-semibold-italic';
-    src: url('../../public/fonts/Poppins-SemiBoldItalic.woff2') format('woff2');
+    src: url('/fonts/Poppins-SemiBoldItalic.woff2') format('woff2');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
@@ -104,7 +104,7 @@
 
 @font-face {
     font-family: 'Poppins-medium-italic';
-    src: url('../../public/fonts/Poppins-MediumItalic.woff2') format('woff2');
+    src: url('/fonts/Poppins-MediumItalic.woff2') format('woff2');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -112,7 +112,7 @@
 
 @font-face {
     font-family: 'Poppins-semibold';
-    src: url('../../public/fonts/Poppins-SemiBold.woff2') format('woff2');
+    src: url('/fonts/Poppins-SemiBold.woff2') format('woff2');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -120,7 +120,7 @@
 
 @font-face {
     font-family: 'Poppins-regular';
-    src: url('../../public/fonts/Poppins-Regular.woff2') format('woff2');
+    src: url('/fonts/Poppins-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -128,7 +128,7 @@
 
 @font-face {
     font-family: 'Poppins-thin';
-    src: url('../../public/fonts/Poppins-Thin.woff2') format('woff2');
+    src: url('/fonts/Poppins-Thin.woff2') format('woff2');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -136,7 +136,7 @@
 
 @font-face {
     font-family: 'Poppins-thin-italic';
-    src: url('../../public/fonts/Poppins-ThinItalic.woff2') format('woff2');
+    src: url('/fonts/Poppins-ThinItalic.woff2') format('woff2');
     font-weight: 100;
     font-style: italic;
     font-display: swap;
