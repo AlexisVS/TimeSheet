@@ -9,6 +9,17 @@
 // Configuration
 @import "../../node_modules/bootstrap/scss/functions";
 @import "../../node_modules/bootstrap/scss/variables";
+
+$theme-colors: (
+    "primary": var(--color-background),
+    "secondary": var(--color-horaire-delimitation),
+    "success": var(--color-activity-green),
+    "info": var(--color-activity-blue),
+    "warning": var(--color-activity-yellow),
+    "danger": var(--color-activity-red),
+    "light": $light,
+    "dark": $dark);
+
 @import "../../node_modules/bootstrap/scss/mixins";
 @import "../../node_modules/bootstrap/scss/utilities";
 @import "./bs-custom-utilities";
